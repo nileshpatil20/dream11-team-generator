@@ -12,7 +12,7 @@ st.set_page_config(page_title="Dream11 Team Generator", layout="wide")
 
 st.markdown(
     """ <style>
-    .footer { position: fixed; bottom: 10px; right: 20px; font-size: 14px; color: #888;
+    .footer { position: fixed; bottom: 10px; left: 20px; font-size: 14px; color: #888;
     background-color: rgba(255,255,255,0.85); padding: 8px 14px; border-radius: 12px;
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     animation: fadeIn 2s ease-in; display: flex; align-items: center; gap: 10px;
